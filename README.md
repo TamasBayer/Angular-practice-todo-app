@@ -1,1 +1,6 @@
-# Angular-practice-todo-app
+# Angular Todo App for Practice
+
+The result:
+
+![](./result.png)
+
