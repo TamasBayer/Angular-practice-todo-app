@@ -1,0 +1,18 @@
+.padding-div {
+  padding: 0 20%;
+  padding-top: 5vh;
+}
+
+.header {
+  background: black;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+}
